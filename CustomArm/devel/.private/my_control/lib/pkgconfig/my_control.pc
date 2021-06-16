@@ -1,4 +1,4 @@
-prefix=/home/reaperj/CustomArm/devel/.private/my_control
+prefix=/home/reaperj/arm_git/Robotic_arm-main/CustomArm/devel/.private/my_control
 
 Name: my_control
 Description: Description of my_control

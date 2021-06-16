@@ -1,1 +1,1 @@
-/home/reaperj/CustomArm/devel/.private/catkin_tools_prebuild/local_setup.bash
+/home/reaperj/arm_git/Robotic_arm-main/CustomArm/devel/.private/catkin_tools_prebuild/local_setup.bash

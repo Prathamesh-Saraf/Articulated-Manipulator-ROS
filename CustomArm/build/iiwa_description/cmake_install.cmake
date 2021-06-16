@@ -1,8 +1,8 @@
-# Install script for directory: /home/reaperj/CustomArm/src/iiwa_description
+# Install script for directory: /home/reaperj/arm_git/Robotic_arm-main/CustomArm/src/iiwa_description
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/reaperj/CustomArm/install")
+  set(CMAKE_INSTALL_PREFIX "/home/reaperj/arm_git/Robotic_arm-main/CustomArm/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -49,115 +49,115 @@ endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/reaperj/CustomArm/install/_setup_util.py")
+   "/home/reaperj/arm_git/Robotic_arm-main/CustomArm/install/_setup_util.py")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/home/reaperj/CustomArm/install" TYPE PROGRAM FILES "/home/reaperj/CustomArm/build/iiwa_description/catkin_generated/installspace/_setup_util.py")
+file(INSTALL DESTINATION "/home/reaperj/arm_git/Robotic_arm-main/CustomArm/install" TYPE PROGRAM FILES "/home/reaperj/arm_git/Robotic_arm-main/CustomArm/build/iiwa_description/catkin_generated/installspace/_setup_util.py")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/reaperj/CustomArm/install/env.sh")
+   "/home/reaperj/arm_git/Robotic_arm-main/CustomArm/install/env.sh")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/home/reaperj/CustomArm/install" TYPE PROGRAM FILES "/home/reaperj/CustomArm/build/iiwa_description/catkin_generated/installspace/env.sh")
+file(INSTALL DESTINATION "/home/reaperj/arm_git/Robotic_arm-main/CustomArm/install" TYPE PROGRAM FILES "/home/reaperj/arm_git/Robotic_arm-main/CustomArm/build/iiwa_description/catkin_generated/installspace/env.sh")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/reaperj/CustomArm/install/setup.bash;/home/reaperj/CustomArm/install/local_setup.bash")
+   "/home/reaperj/arm_git/Robotic_arm-main/CustomArm/install/setup.bash;/home/reaperj/arm_git/Robotic_arm-main/CustomArm/install/local_setup.bash")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/home/reaperj/CustomArm/install" TYPE FILE FILES
-    "/home/reaperj/CustomArm/build/iiwa_description/catkin_generated/installspace/setup.bash"
-    "/home/reaperj/CustomArm/build/iiwa_description/catkin_generated/installspace/local_setup.bash"
+file(INSTALL DESTINATION "/home/reaperj/arm_git/Robotic_arm-main/CustomArm/install" TYPE FILE FILES
+    "/home/reaperj/arm_git/Robotic_arm-main/CustomArm/build/iiwa_description/catkin_generated/installspace/setup.bash"
+    "/home/reaperj/arm_git/Robotic_arm-main/CustomArm/build/iiwa_description/catkin_generated/installspace/local_setup.bash"
     )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/reaperj/CustomArm/install/setup.sh;/home/reaperj/CustomArm/install/local_setup.sh")
+   "/home/reaperj/arm_git/Robotic_arm-main/CustomArm/install/setup.sh;/home/reaperj/arm_git/Robotic_arm-main/CustomArm/install/local_setup.sh")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/home/reaperj/CustomArm/install" TYPE FILE FILES
-    "/home/reaperj/CustomArm/build/iiwa_description/catkin_generated/installspace/setup.sh"
-    "/home/reaperj/CustomArm/build/iiwa_description/catkin_generated/installspace/local_setup.sh"
+file(INSTALL DESTINATION "/home/reaperj/arm_git/Robotic_arm-main/CustomArm/install" TYPE FILE FILES
+    "/home/reaperj/arm_git/Robotic_arm-main/CustomArm/build/iiwa_description/catkin_generated/installspace/setup.sh"
+    "/home/reaperj/arm_git/Robotic_arm-main/CustomArm/build/iiwa_description/catkin_generated/installspace/local_setup.sh"
     )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/reaperj/CustomArm/install/setup.zsh;/home/reaperj/CustomArm/install/local_setup.zsh")
+   "/home/reaperj/arm_git/Robotic_arm-main/CustomArm/install/setup.zsh;/home/reaperj/arm_git/Robotic_arm-main/CustomArm/install/local_setup.zsh")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/home/reaperj/CustomArm/install" TYPE FILE FILES
-    "/home/reaperj/CustomArm/build/iiwa_description/catkin_generated/installspace/setup.zsh"
-    "/home/reaperj/CustomArm/build/iiwa_description/catkin_generated/installspace/local_setup.zsh"
+file(INSTALL DESTINATION "/home/reaperj/arm_git/Robotic_arm-main/CustomArm/install" TYPE FILE FILES
+    "/home/reaperj/arm_git/Robotic_arm-main/CustomArm/build/iiwa_description/catkin_generated/installspace/setup.zsh"
+    "/home/reaperj/arm_git/Robotic_arm-main/CustomArm/build/iiwa_description/catkin_generated/installspace/local_setup.zsh"
     )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   list(APPEND CMAKE_ABSOLUTE_DESTINATION_FILES
-   "/home/reaperj/CustomArm/install/.rosinstall")
+   "/home/reaperj/arm_git/Robotic_arm-main/CustomArm/install/.rosinstall")
   if(CMAKE_WARN_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(WARNING "ABSOLUTE path INSTALL DESTINATION : ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
   if(CMAKE_ERROR_ON_ABSOLUTE_INSTALL_DESTINATION)
     message(FATAL_ERROR "ABSOLUTE path INSTALL DESTINATION forbidden (by caller): ${CMAKE_ABSOLUTE_DESTINATION_FILES}")
   endif()
-file(INSTALL DESTINATION "/home/reaperj/CustomArm/install" TYPE FILE FILES "/home/reaperj/CustomArm/build/iiwa_description/catkin_generated/installspace/.rosinstall")
+file(INSTALL DESTINATION "/home/reaperj/arm_git/Robotic_arm-main/CustomArm/install" TYPE FILE FILES "/home/reaperj/arm_git/Robotic_arm-main/CustomArm/build/iiwa_description/catkin_generated/installspace/.rosinstall")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/reaperj/CustomArm/build/iiwa_description/catkin_generated/installspace/iiwa_description.pc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/reaperj/arm_git/Robotic_arm-main/CustomArm/build/iiwa_description/catkin_generated/installspace/iiwa_description.pc")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/iiwa_description/cmake" TYPE FILE FILES
-    "/home/reaperj/CustomArm/build/iiwa_description/catkin_generated/installspace/iiwa_descriptionConfig.cmake"
-    "/home/reaperj/CustomArm/build/iiwa_description/catkin_generated/installspace/iiwa_descriptionConfig-version.cmake"
+    "/home/reaperj/arm_git/Robotic_arm-main/CustomArm/build/iiwa_description/catkin_generated/installspace/iiwa_descriptionConfig.cmake"
+    "/home/reaperj/arm_git/Robotic_arm-main/CustomArm/build/iiwa_description/catkin_generated/installspace/iiwa_descriptionConfig-version.cmake"
     )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/iiwa_description" TYPE FILE FILES "/home/reaperj/CustomArm/src/iiwa_description/package.xml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/iiwa_description" TYPE FILE FILES "/home/reaperj/arm_git/Robotic_arm-main/CustomArm/src/iiwa_description/package.xml")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/iiwa_description/launch" TYPE DIRECTORY FILES "/home/reaperj/CustomArm/src/iiwa_description/launch/" REGEX "/\\.svn$" EXCLUDE)
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/iiwa_description/launch" TYPE DIRECTORY FILES "/home/reaperj/arm_git/Robotic_arm-main/CustomArm/src/iiwa_description/launch/" REGEX "/\\.svn$" EXCLUDE)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/iiwa_description/meshes" TYPE DIRECTORY FILES "/home/reaperj/CustomArm/src/iiwa_description/meshes/" REGEX "/\\.svn$" EXCLUDE)
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/iiwa_description/meshes" TYPE DIRECTORY FILES "/home/reaperj/arm_git/Robotic_arm-main/CustomArm/src/iiwa_description/meshes/" REGEX "/\\.svn$" EXCLUDE)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/iiwa_description/urdf" TYPE DIRECTORY FILES "/home/reaperj/CustomArm/src/iiwa_description/urdf/" REGEX "/\\.svn$" EXCLUDE)
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/iiwa_description/urdf" TYPE DIRECTORY FILES "/home/reaperj/arm_git/Robotic_arm-main/CustomArm/src/iiwa_description/urdf/" REGEX "/\\.svn$" EXCLUDE)
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/reaperj/CustomArm/build/iiwa_description/gtest/cmake_install.cmake")
+  include("/home/reaperj/arm_git/Robotic_arm-main/CustomArm/build/iiwa_description/gtest/cmake_install.cmake")
 
 endif()
 
@@ -169,5 +169,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/reaperj/CustomArm/build/iiwa_description/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/reaperj/arm_git/Robotic_arm-main/CustomArm/build/iiwa_description/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

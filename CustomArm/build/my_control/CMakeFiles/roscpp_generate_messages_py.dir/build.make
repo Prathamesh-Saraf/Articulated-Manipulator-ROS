@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/reaperj/CustomArm/src/my_control
+CMAKE_SOURCE_DIR = /home/reaperj/arm_git/Robotic_arm-main/CustomArm/src/my_control
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/reaperj/CustomArm/build/my_control
+CMAKE_BINARY_DIR = /home/reaperj/arm_git/Robotic_arm-main/CustomArm/build/my_control
 
 # Utility rule file for roscpp_generate_messages_py.
 
@@ -67,6 +67,6 @@ CMakeFiles/roscpp_generate_messages_py.dir/clean:
 .PHONY : CMakeFiles/roscpp_generate_messages_py.dir/clean
 
 CMakeFiles/roscpp_generate_messages_py.dir/depend:
-	cd /home/reaperj/CustomArm/build/my_control && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/reaperj/CustomArm/src/my_control /home/reaperj/CustomArm/src/my_control /home/reaperj/CustomArm/build/my_control /home/reaperj/CustomArm/build/my_control /home/reaperj/CustomArm/build/my_control/CMakeFiles/roscpp_generate_messages_py.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/reaperj/arm_git/Robotic_arm-main/CustomArm/build/my_control && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/reaperj/arm_git/Robotic_arm-main/CustomArm/src/my_control /home/reaperj/arm_git/Robotic_arm-main/CustomArm/src/my_control /home/reaperj/arm_git/Robotic_arm-main/CustomArm/build/my_control /home/reaperj/arm_git/Robotic_arm-main/CustomArm/build/my_control /home/reaperj/arm_git/Robotic_arm-main/CustomArm/build/my_control/CMakeFiles/roscpp_generate_messages_py.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/roscpp_generate_messages_py.dir/depend
 

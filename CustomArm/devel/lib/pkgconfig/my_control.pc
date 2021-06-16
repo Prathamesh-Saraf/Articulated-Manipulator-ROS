@@ -1,1 +1,1 @@
-/home/reaperj/CustomArm/devel/.private/my_control/lib/pkgconfig/my_control.pc
+/home/reaperj/arm_git/Robotic_arm-main/CustomArm/devel/.private/my_control/lib/pkgconfig/my_control.pc

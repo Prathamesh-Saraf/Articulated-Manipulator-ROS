@@ -7,7 +7,7 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/reaperj/CustomArm/devel/.private/catkin_tools_prebuild:$CMAKE_PREFIX_PATH"
-export PWD='/home/reaperj/CustomArm/build/catkin_tools_prebuild'
-export ROSLISP_PACKAGE_DIRECTORIES='/home/reaperj/CustomArm/devel/.private/catkin_tools_prebuild/share/common-lisp'
-export ROS_PACKAGE_PATH='/home/reaperj/CustomArm/build/catkin_tools_prebuild:/opt/ros/melodic/share'
+export CMAKE_PREFIX_PATH="/home/reaperj/arm_git/Robotic_arm-main/CustomArm/devel/.private/catkin_tools_prebuild:$CMAKE_PREFIX_PATH"
+export PWD='/home/reaperj/arm_git/Robotic_arm-main/CustomArm/build/catkin_tools_prebuild'
+export ROSLISP_PACKAGE_DIRECTORIES="/home/reaperj/arm_git/Robotic_arm-main/CustomArm/devel/.private/catkin_tools_prebuild/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
+export ROS_PACKAGE_PATH='/home/reaperj/arm_git/Robotic_arm-main/CustomArm/build/catkin_tools_prebuild:/home/reaperj/catkin_ws/src:/opt/ros/melodic/share'

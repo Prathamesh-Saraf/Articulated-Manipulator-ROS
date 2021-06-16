@@ -268,7 +268,7 @@ if __name__ == '__main__':
 
         if not args.local:
             # environment at generation time
-            CMAKE_PREFIX_PATH = r'/home/reaperj/CustomArm/devel;/opt/ros/melodic;/home/reaperj/catkin_ws/devel'.split(';')
+            CMAKE_PREFIX_PATH = r'/home/reaperj/arm_git/Robotic_arm-main/CustomArm/devel;/home/reaperj/catkin_ws/devel;/opt/ros/melodic'.split(';')
         else:
             # don't consider any other prefix path than this one
             CMAKE_PREFIX_PATH = []

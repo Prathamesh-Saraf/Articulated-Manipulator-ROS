@@ -1,6 +1,6 @@
-devel_space: /home/reaperj/CustomArm/devel
+devel_space: /home/reaperj/arm_git/Robotic_arm-main/CustomArm/devel
 install: false
-install_space: /home/reaperj/CustomArm/install
+install_space: /home/reaperj/arm_git/Robotic_arm-main/CustomArm/install
 profile: default
-source_space: /home/reaperj/CustomArm/src
-workspace: /home/reaperj/CustomArm
+source_space: /home/reaperj/arm_git/Robotic_arm-main/CustomArm/src
+workspace: /home/reaperj/arm_git/Robotic_arm-main/CustomArm

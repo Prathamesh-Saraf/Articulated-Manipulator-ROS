@@ -67,14 +67,14 @@ set(my_control_CONFIG_INCLUDED TRUE)
 
 # set variables for source/devel/install prefixes
 if("FALSE" STREQUAL "TRUE")
-  set(my_control_SOURCE_PREFIX /home/reaperj/CustomArm/src/my_control)
-  set(my_control_DEVEL_PREFIX /home/reaperj/CustomArm/devel/.private/my_control)
+  set(my_control_SOURCE_PREFIX /home/reaperj/arm_git/Robotic_arm-main/CustomArm/src/my_control)
+  set(my_control_DEVEL_PREFIX /home/reaperj/arm_git/Robotic_arm-main/CustomArm/devel/.private/my_control)
   set(my_control_INSTALL_PREFIX "")
   set(my_control_PREFIX ${my_control_DEVEL_PREFIX})
 else()
   set(my_control_SOURCE_PREFIX "")
   set(my_control_DEVEL_PREFIX "")
-  set(my_control_INSTALL_PREFIX /home/reaperj/CustomArm/install)
+  set(my_control_INSTALL_PREFIX /home/reaperj/arm_git/Robotic_arm-main/CustomArm/install)
   set(my_control_PREFIX ${my_control_INSTALL_PREFIX})
 endif()
 
@@ -154,7 +154,7 @@ foreach(library ${libraries})
     set(lib_path "")
     set(lib "${library}-NOTFOUND")
     # since the path where the library is found is returned we have to iterate over the paths manually
-    foreach(path /home/reaperj/CustomArm/install/lib;/home/reaperj/CustomArm/devel/lib;/opt/ros/melodic/lib)
+    foreach(path /home/reaperj/arm_git/Robotic_arm-main/CustomArm/install/lib;/home/reaperj/arm_git/Robotic_arm-main/CustomArm/devel/lib;/home/reaperj/catkin_ws/devel/lib;/opt/ros/melodic/lib)
       find_library(lib ${library}
         PATHS ${path}
         NO_DEFAULT_PATH NO_CMAKE_FIND_ROOT_PATH)

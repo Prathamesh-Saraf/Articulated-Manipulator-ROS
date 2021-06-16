@@ -1,4 +1,4 @@
-prefix=/home/reaperj/CustomArm/install
+prefix=/home/reaperj/arm_git/Robotic_arm-main/CustomArm/install
 
 Name: catkin_tools_prebuild
 Description: Description of catkin_tools_prebuild

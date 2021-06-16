@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/reaperj/CustomArm/src/iiwa_description
+CMAKE_SOURCE_DIR = /home/reaperj/arm_git/Robotic_arm-main/CustomArm/src/iiwa_description
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/reaperj/CustomArm/build/iiwa_description
+CMAKE_BINARY_DIR = /home/reaperj/arm_git/Robotic_arm-main/CustomArm/build/iiwa_description
 
 # Utility rule file for run_tests.
 
@@ -67,6 +67,6 @@ CMakeFiles/run_tests.dir/clean:
 .PHONY : CMakeFiles/run_tests.dir/clean
 
 CMakeFiles/run_tests.dir/depend:
-	cd /home/reaperj/CustomArm/build/iiwa_description && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/reaperj/CustomArm/src/iiwa_description /home/reaperj/CustomArm/src/iiwa_description /home/reaperj/CustomArm/build/iiwa_description /home/reaperj/CustomArm/build/iiwa_description /home/reaperj/CustomArm/build/iiwa_description/CMakeFiles/run_tests.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/reaperj/arm_git/Robotic_arm-main/CustomArm/build/iiwa_description && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/reaperj/arm_git/Robotic_arm-main/CustomArm/src/iiwa_description /home/reaperj/arm_git/Robotic_arm-main/CustomArm/src/iiwa_description /home/reaperj/arm_git/Robotic_arm-main/CustomArm/build/iiwa_description /home/reaperj/arm_git/Robotic_arm-main/CustomArm/build/iiwa_description /home/reaperj/arm_git/Robotic_arm-main/CustomArm/build/iiwa_description/CMakeFiles/run_tests.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/run_tests.dir/depend
 

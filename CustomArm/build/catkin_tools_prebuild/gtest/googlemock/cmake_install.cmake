@@ -2,7 +2,7 @@
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/reaperj/CustomArm/install")
+  set(CMAKE_INSTALL_PREFIX "/home/reaperj/arm_git/Robotic_arm-main/CustomArm/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/reaperj/CustomArm/build/catkin_tools_prebuild/gtest/googlemock/gtest/cmake_install.cmake")
+  include("/home/reaperj/arm_git/Robotic_arm-main/CustomArm/build/catkin_tools_prebuild/gtest/googlemock/gtest/cmake_install.cmake")
 
 endif()
 
