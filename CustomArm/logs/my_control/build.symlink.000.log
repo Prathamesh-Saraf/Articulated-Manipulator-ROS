@@ -1,0 +1,3 @@
+Symlinking /home/reaperj/CustomArm/devel/share/my_control/cmake/my_controlConfig.cmake
+Symlinking /home/reaperj/CustomArm/devel/share/my_control/cmake/my_controlConfig-version.cmake
+Symlinking /home/reaperj/CustomArm/devel/lib/pkgconfig/my_control.pc

@@ -1,0 +1,6 @@
+devel_space: /home/reaperj/CustomArm/devel
+install: false
+install_space: /home/reaperj/CustomArm/install
+profile: default
+source_space: /home/reaperj/CustomArm/src
+workspace: /home/reaperj/CustomArm

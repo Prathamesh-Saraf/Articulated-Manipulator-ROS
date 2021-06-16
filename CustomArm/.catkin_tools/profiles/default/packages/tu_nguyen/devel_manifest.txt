@@ -1,0 +1,5 @@
+tu_nguyen
+/home/reaperj/CustomArm/devel/.private/tu_nguyen/cmake.lock /home/reaperj/CustomArm/devel/./cmake.lock
+/home/reaperj/CustomArm/devel/.private/tu_nguyen/share/tu_nguyen/cmake/tu_nguyenConfig-version.cmake /home/reaperj/CustomArm/devel/share/tu_nguyen/cmake/tu_nguyenConfig-version.cmake
+/home/reaperj/CustomArm/devel/.private/tu_nguyen/share/tu_nguyen/cmake/tu_nguyenConfig.cmake /home/reaperj/CustomArm/devel/share/tu_nguyen/cmake/tu_nguyenConfig.cmake
+/home/reaperj/CustomArm/devel/.private/tu_nguyen/lib/pkgconfig/tu_nguyen.pc /home/reaperj/CustomArm/devel/lib/pkgconfig/tu_nguyen.pc
