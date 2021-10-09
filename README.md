@@ -13,13 +13,13 @@ In this work, Classical and Optimal controllers namely :
 - Impedence
 Are desigened for a 3 DOF spherical workspace Arm in Simulink and Matlab, are deployed and simulated through ros_controls package on KUKA IIWA LBR7 in Gazebo simulator.
 Some intreseting results are seen in the comparison of these controllers for such a robotic manipulator.
+Results will be soon published in a research article.
 
 <div  align="center">
 <img  src="./assets/arm.png" width="600">
 </div>
 
-Some intresting Results:
-Results will be soon published in a research article.
+
 
 ## How to use 
 
