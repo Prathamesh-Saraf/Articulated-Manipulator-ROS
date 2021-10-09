@@ -1,4 +1,4 @@
-# GenCRA3S
+# Kuka_CS3
 The code structure is designed to simulate a 3-DOF arm in Gazebo using matlab controllers backed up by PID controllers of ROS_Gazebo.
 
 Ros Integrated Matalab & Simulink Package for  3-DOF manipulator simulation in Gazebo
