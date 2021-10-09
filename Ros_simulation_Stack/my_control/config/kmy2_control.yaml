@@ -1,0 +1,17 @@
+iiwa:
+  # Publish all joint states -----------------------------------
+  joint_state_controller:
+    type: joint_state_controller/JointStateController
+    publish_rate: 50  
+
+  # Effort Controllers ---------------------------------------
+  joint1_effort_controller:
+    type: effort_controllers/JointEffortController
+    joint: iiwa_joint_1
+  joint2_effort_controller:
+    type: effort_controllers/JointEffortController
+    joint: iiwa_joint_2
+
+  joint4_effort_controller:
+    type: effort_controllers/JointEffortController
+    joint: iiwa_joint_4

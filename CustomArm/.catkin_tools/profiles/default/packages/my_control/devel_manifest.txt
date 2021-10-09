@@ -1,5 +1,0 @@
-my_control
-/home/reaperj/arm_git/Robotic_arm-main/CustomArm/devel/.private/my_control/cmake.lock /home/reaperj/arm_git/Robotic_arm-main/CustomArm/devel/./cmake.lock
-/home/reaperj/arm_git/Robotic_arm-main/CustomArm/devel/.private/my_control/share/my_control/cmake/my_controlConfig.cmake /home/reaperj/arm_git/Robotic_arm-main/CustomArm/devel/share/my_control/cmake/my_controlConfig.cmake
-/home/reaperj/arm_git/Robotic_arm-main/CustomArm/devel/.private/my_control/share/my_control/cmake/my_controlConfig-version.cmake /home/reaperj/arm_git/Robotic_arm-main/CustomArm/devel/share/my_control/cmake/my_controlConfig-version.cmake
-/home/reaperj/arm_git/Robotic_arm-main/CustomArm/devel/.private/my_control/lib/pkgconfig/my_control.pc /home/reaperj/arm_git/Robotic_arm-main/CustomArm/devel/lib/pkgconfig/my_control.pc
