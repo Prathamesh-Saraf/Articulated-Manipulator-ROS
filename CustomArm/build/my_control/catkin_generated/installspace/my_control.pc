@@ -1,8 +1,0 @@
-prefix=/home/reaperj/arm_git/Robotic_arm-main/CustomArm/install
-
-Name: my_control
-Description: Description of my_control
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

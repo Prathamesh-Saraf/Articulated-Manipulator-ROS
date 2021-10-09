@@ -1,8 +1,0 @@
-prefix=/home/reaperj/arm_git/Robotic_arm-main/CustomArm/devel/.private/iiwa_description
-
-Name: iiwa_description
-Description: Description of iiwa_description
-Version: 1.4.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
