@@ -16,7 +16,7 @@ Are desigened for a 3 DOF spherical workspace Arm in Simulink and Matlab, are de
 Some intreseting results are seen in the comparison of these controllers for such a robotic manipulator.
 
 <div  align="center">
-<img  src="./assets/arm.jpg" width="600">
+<img  src="./assets/arm.png" width="600">
 </div>
 
 Some intresting Results:
