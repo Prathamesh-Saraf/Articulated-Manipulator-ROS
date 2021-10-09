@@ -27,10 +27,10 @@ Results will be soon published in a research article.
 Install the requirements
 Required Packages :
 - Matlab
-- - ROS Toolbox
-- - Control Systems Toolbox
+  - ROS Toolbox
+  - Control Systems Toolbox
 - ROS
-- - ros_controls Package
+  - ros_controls Package
 
 Use:
 - Clone in catkin workspace
