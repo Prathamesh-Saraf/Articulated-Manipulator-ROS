@@ -7,13 +7,15 @@ Ros Integrated Matalab & Simulink Package for  3-DOF manipulator simulation in G
 </div>
 
 ## Description
-In this work, Classical and Optimal controllers namely :
+In this work, Classical and Optimal controllers are desigened for a 3 DOF spherical workspace Arm in Simulink and Matlab, are deployed and simulated through ros_controls package on KUKA IIWA LBR7 in Gazebo simulator.
+Some intreseting results are seen in the comparison of these controllers for such a robotic manipulator.
+Results will be soon published in a research article.
+
+Controllers:
 - PID
 - LQR
 - Impedence
-Are desigened for a 3 DOF spherical workspace Arm in Simulink and Matlab, are deployed and simulated through ros_controls package on KUKA IIWA LBR7 in Gazebo simulator.
-Some intreseting results are seen in the comparison of these controllers for such a robotic manipulator.
-Results will be soon published in a research article.
+
 
 <div  align="center">
 <img  src="./assets/arm.png" width="600">
