@@ -50,7 +50,7 @@ Use:
 
 ## Contact
 - Yash Jangir [![Gmail: Yash_Jangir](https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white)](mailto:offjangir@gmail.com) [![Linkedin: offjangir](https://img.shields.io/badge/-Yash_Jangir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yash-jangir-6a71651a1)](https://www.linkedin.com/in/yash-jangir-6a71651a1/)
-- Prathamesh Saraf [![Gmail: Prathamesh Saraf](https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white)](mailto:pratha1999@gmail.com) [![Linkedin: Prathamesh Saraf](https://img.shields.io/badge/-Yash_Jangir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prathamesh-saraf/)](https://www.linkedin.com/in/prathamesh-saraf/)
+- Prathamesh Saraf [![Gmail: Prathamesh Saraf](https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white)](mailto:pratha1999@gmail.com) [![Linkedin: Prathamesh Saraf](https://img.shields.io/badge/-Prathamesh_Saraf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prathamesh-saraf/)](https://www.linkedin.com/in/prathamesh-saraf/)
 
 
 
