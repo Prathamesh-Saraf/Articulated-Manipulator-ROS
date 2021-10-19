@@ -1,6 +1,6 @@
 # GenCRA3S
 
-Ros Integrated Matalab & Simulink Package for  3-DOF manipulator simulation in Gazebo
+ROS integrated MATLAB-Simulink package for the KUKA IIWA LBR7 manipulator in Gazebo environment
 
 <div  align="center">
 <img src="./assets/Arm.gif" width="700" />
