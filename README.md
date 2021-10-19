@@ -7,14 +7,13 @@ Ros Integrated Matalab & Simulink Package for  3-DOF manipulator simulation in G
 </div>
 
 ## Description
-In this work, Classical and Optimal controllers are desigened for a 3 DOF spherical workspace Arm in Simulink and Matlab, are deployed and simulated through ros_controls package on KUKA IIWA LBR7 in Gazebo simulator.
-Some intreseting results are seen in the comparison of these controllers for such a robotic manipulator.
-Results will be soon published in a research article.
+In this work, classical, optimal, and force-based controllers are designed for a 3 DOF spherical manipulator in Matlab-Simulink. The controllers are deployed and verified on the KUKA IIWA LBR7 industrial manipulator in ROS-Gazebo simulator using the ros_controls package.
+Some intreseting results are seen in the comparison of these controllers for the robotic manipulator.
 
 Controllers:
-- PID
-- LQR
-- Impedence
+- Proportional Integral Derivative (PID)
+- Linear Quadratic Regulator (LQR)
+- Impedence Control
 
 
 <div  align="center">
@@ -34,11 +33,16 @@ Required Packages :
   - ros_controls Package
 
 Use:
-- Clone in catkin workspace
+- Create a workspace folder "work_space"
+- Create a "src" folder inside the "work_space" folder
+- Clone the repository inside the "src" folder
+  - cd work_space/src 
+  - git clone https://github.com/offjangir/GenCRA3S/  
 - Build ros packages
-- Open matlab & Simulink Model
-- Launch Arm Control by PID_arm.launch for PID and LQR_IMP_arm.launch for LQR and Impedence 
-- Run Parameter scripts for respective controllers in Matlab
+  - catkin_build
+- Open the MATLAB & Simulink Model files
+- Start the controller launching the "PID_arm.launch" file using "roslaunch" command for PID, and "LQR_IMP_arm.launch" for LQR and Impedence controllers respectively 
+- Run Parameter scripts for respective controllers in MATLAB
 - Run Simulink Model
 
 ## Contributing
