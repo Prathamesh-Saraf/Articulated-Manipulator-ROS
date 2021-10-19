@@ -1,4 +1,4 @@
-# GenCRA3S
+# Articulated Manipulator ROS
 
 ROS integrated MATLAB-Simulink package for the KUKA IIWA LBR7 manipulator in Gazebo environment
 
